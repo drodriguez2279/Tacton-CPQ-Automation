@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="48.742">
+    <testcase classname="Account Page" name="Create Opportunity" time="48.335">
+        <system-out><![CDATA[Given browser is opened.....................................................passed
+And user navigates to the login page........................................passed
+And user enters username and password.......................................passed
+And user clicks in Account page.............................................passed
+And user enters account in filter...........................................passed
+And user clicks in search...................................................passed
+And user clicks in record...................................................passed
+Given user clicks in Create Opportunity.....................................passed
+Then form is displayed......................................................passed
+And user enters information.................................................passed
+And user clicks in Create...................................................passed
+And opportunity details page is displayed...................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
